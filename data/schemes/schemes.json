@@ -1,0 +1,113 @@
+[
+  {
+    "id": "mudra",
+    "name": "Pradhan Mantri MUDRA Yojana",
+    "level": "Central",
+    "location": "All India",
+    "target_groups": [
+      "Micro entrepreneurs",
+      "Small business owners",
+      "Women entrepreneurs"
+    ],
+    "support_types": [
+      "Business loan",
+      "Credit support"
+    ],
+    "description": "Pradhan Mantri MUDRA Yojana provides credit support to micro and small businesses through eligible lending institutions.",
+    "eligibility": "Micro and small business entrepreneurs who meet the applicable lending and scheme requirements.",
+    "common_documents": [
+      "Aadhaar Card",
+      "PAN Card",
+      "Address proof",
+      "Bank documents",
+      "Business or project details"
+    ],
+    "application_process": "Apply through participating banks, NBFCs and other eligible lending institutions.",
+    "official_source": "https://www.mudra.org.in",
+    "last_updated": "2026-09-17"
+  },
+  {
+    "id": "pmegp",
+    "name": "Prime Minister's Employment Generation Programme",
+    "level": "Central",
+    "location": "All India",
+    "target_groups": [
+      "New entrepreneurs",
+      "Micro enterprise applicants",
+      "Women entrepreneurs"
+    ],
+    "support_types": [
+      "Credit-linked subsidy",
+      "Bank loan"
+    ],
+    "description": "PMEGP supports eligible entrepreneurs in setting up new micro enterprises through a credit-linked subsidy and bank finance.",
+    "eligibility": "Applicants must satisfy the applicable PMEGP eligibility and project requirements.",
+    "common_documents": [
+      "Aadhaar Card",
+      "PAN Card",
+      "Project report",
+      "Address proof",
+      "Bank details",
+      "Category certificate where applicable"
+    ],
+    "application_process": "Apply through the official PMEGP portal, implementing agencies and participating banks.",
+    "official_source": "https://www.kviconline.gov.in/pmegpeportal",
+    "last_updated": "2026-09-17"
+  },
+  {
+    "id": "stand-up-india",
+    "name": "Stand-Up India",
+    "level": "Central",
+    "location": "All India",
+    "target_groups": [
+      "Women entrepreneurs",
+      "SC entrepreneurs",
+      "ST entrepreneurs"
+    ],
+    "support_types": [
+      "Business loan",
+      "Entrepreneurship support"
+    ],
+    "description": "Stand-Up India facilitates bank loans for eligible women and SC/ST entrepreneurs for setting up new enterprises.",
+    "eligibility": "Applicants must satisfy the applicable Stand-Up India eligibility and lending requirements.",
+    "common_documents": [
+      "Aadhaar Card",
+      "PAN Card",
+      "Address proof",
+      "Business plan",
+      "Project report",
+      "Bank documents",
+      "Category certificate where applicable"
+    ],
+    "application_process": "Apply through participating banks and the official Stand-Up India platform.",
+    "official_source": "https://www.standupmitra.in",
+    "last_updated": "2026-09-17"
+  },
+  {
+    "id": "udyam-registration",
+    "name": "Udyam Registration",
+    "level": "Central",
+    "location": "All India",
+    "target_groups": [
+      "Micro enterprises",
+      "Small enterprises",
+      "Medium enterprises",
+      "Entrepreneurs"
+    ],
+    "support_types": [
+      "MSME formalisation",
+      "Business registration"
+    ],
+    "description": "Udyam Registration is the official online registration system for eligible MSMEs.",
+    "eligibility": "Eligible micro, small and medium enterprises can register through the official Udyam Registration system.",
+    "common_documents": [
+      "Aadhaar Card",
+      "PAN Card",
+      "Business details",
+      "Bank details where applicable"
+    ],
+    "application_process": "Complete the registration online through the official Udyam Registration portal.",
+    "official_source": "https://udyamregistration.gov.in",
+    "last_updated": "2026-09-17"
+  }
+]

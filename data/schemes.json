@@ -1,0 +1,134 @@
+[
+  {
+    "id": "mudra",
+    "name": "Pradhan Mantri MUDRA Yojana",
+    "short_name": "MUDRA",
+    "government": "Government of India",
+    "level": "central",
+    "state": "All India",
+    "target_groups": [
+      "micro entrepreneurs",
+      "small business owners",
+      "women entrepreneurs"
+    ],
+    "support_types": [
+      "business loan",
+      "credit support"
+    ],
+    "description": "A government-backed framework for providing credit support to eligible micro and small business activities through participating lending institutions.",
+    "eligibility": [
+      "Eligibility depends on the lending institution and applicable scheme guidelines.",
+      "Business activity should fall within eligible micro or small enterprise activities."
+    ],
+    "common_documents": [
+      "Aadhaar",
+      "PAN",
+      "address proof",
+      "bank documents",
+      "business or project details"
+    ],
+    "application_method": "Through participating banks, NBFCs or other eligible lending institutions.",
+    "official_source": "https://www.mudra.org.in",
+    "last_updated": "2026-09-17"
+  },
+  {
+    "id": "pmegp",
+    "name": "Prime Minister's Employment Generation Programme",
+    "short_name": "PMEGP",
+    "government": "Government of India",
+    "level": "central",
+    "state": "All India",
+    "target_groups": [
+      "new entrepreneurs",
+      "micro enterprise applicants",
+      "women entrepreneurs"
+    ],
+    "support_types": [
+      "credit-linked subsidy",
+      "bank loan"
+    ],
+    "description": "A programme supporting eligible applicants in establishing new micro enterprises through a credit-linked subsidy mechanism.",
+    "eligibility": [
+      "Applicable eligibility conditions must be satisfied.",
+      "The enterprise must meet the current PMEGP guidelines.",
+      "Certain project and applicant conditions apply."
+    ],
+    "common_documents": [
+      "Aadhaar",
+      "PAN",
+      "project report",
+      "address proof",
+      "bank details",
+      "category certificate where applicable"
+    ],
+    "application_method": "Application is made through the official PMEGP e-portal and participating implementing agencies/banks.",
+    "official_source": "https://www.kviconline.gov.in/pmegpeportal",
+    "last_updated": "2026-09-17"
+  },
+  {
+    "id": "stand-up-india",
+    "name": "Stand-Up India",
+    "short_name": "Stand-Up India",
+    "government": "Government of India",
+    "level": "central",
+    "state": "All India",
+    "target_groups": [
+      "women entrepreneurs",
+      "SC entrepreneurs",
+      "ST entrepreneurs"
+    ],
+    "support_types": [
+      "business loan",
+      "entrepreneurship support"
+    ],
+    "description": "A scheme intended to facilitate bank loans for eligible women and SC/ST entrepreneurs setting up eligible new enterprises.",
+    "eligibility": [
+      "Applicant must satisfy the current scheme eligibility conditions.",
+      "The enterprise must meet applicable requirements for a new business.",
+      "Bank-level assessment and scheme conditions apply."
+    ],
+    "common_documents": [
+      "Aadhaar",
+      "PAN",
+      "address proof",
+      "business plan or project report",
+      "bank documents",
+      "category certificate where applicable"
+    ],
+    "application_method": "Through participating banks and the official Stand-Up India platform.",
+    "official_source": "https://www.standupmitra.in",
+    "last_updated": "2026-09-17"
+  },
+  {
+    "id": "udyam-registration",
+    "name": "Udyam Registration",
+    "short_name": "Udyam",
+    "government": "Government of India",
+    "level": "central",
+    "state": "All India",
+    "target_groups": [
+      "micro enterprises",
+      "small enterprises",
+      "medium enterprises",
+      "entrepreneurs"
+    ],
+    "support_types": [
+      "MSME formalisation",
+      "business registration"
+    ],
+    "description": "The official registration system for eligible Micro, Small and Medium Enterprises in India.",
+    "eligibility": [
+      "Enterprise must satisfy the applicable MSME classification requirements.",
+      "Registration information must be provided accurately."
+    ],
+    "common_documents": [
+      "Aadhaar",
+      "PAN",
+      "business details",
+      "bank details where applicable"
+    ],
+    "application_method": "Online through the official Udyam Registration portal.",
+    "official_source": "https://udyamregistration.gov.in",
+    "last_updated": "2026-09-17"
+  }
+]
